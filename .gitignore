@@ -1,0 +1,9 @@
+# Mac dirs
+.DS_Store
+
+# Vscode dirs
+/.vscode
+
+# Build and Output
+/main.dSYM
+a.out
